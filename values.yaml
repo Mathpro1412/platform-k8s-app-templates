@@ -52,7 +52,7 @@ ingress:
     # kubernetes.io/ingress.class: nginx
     # kubernetes.io/tls-acme: "true"
   hosts:
-    - host: express-chart.local
+    - host: chart-prod.local
       paths:
         - path: /
           pathType: Prefix
