@@ -9,7 +9,7 @@ image:
   repository: anonja/js-web-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "1.0.0"
+  tag: 6ed8937
 
 imagePullSecrets: []
 nameOverride: ""
